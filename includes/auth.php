@@ -4,7 +4,7 @@ session_start();
 class Auth {
     private $db;
     
-    public function __construct($database) {
+    public function __construct($database = null) {
         $this->db = $database;
     }
     
