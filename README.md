@@ -1,5 +1,6 @@
+Développement  et  déploiement  d’une  application  web  pour  la gestion du point de vente (PDV) des boutiques
+
 1 
- 
  
 Armée du Salut 
 UNIVERSITE WILLIAM BOOTH 
